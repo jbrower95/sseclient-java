@@ -1,7 +1,7 @@
 # sseclient-java
 A java implementation of Server Sent Events (SSE), particularly for Firebase streaming.
 
-Open a connection to a server:
+Check it out:
 ```java
 
 // for firebase streaming of the root, hit /.json.
@@ -20,3 +20,4 @@ for (SSEMessage message : client) {
 }
 ```
 
+This is a port of [sseclient 0.0.3].(https://pypi.python.org/pypi/sseclient/0.0.3)
