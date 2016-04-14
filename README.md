@@ -20,4 +20,4 @@ for (SSEMessage message : client) {
 }
 ```
 
-This is a port of [sseclient 0.0.3].(https://pypi.python.org/pypi/sseclient/0.0.3)
+This is a port of [sseclient 0.0.3](https://pypi.python.org/pypi/sseclient/0.0.3)
